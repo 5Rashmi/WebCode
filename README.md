@@ -1,4 +1,4 @@
-# Project Name
+# ![WebCode](https://img.shields.io/badge/WebCode-red?style=for-the-badge)
 
 We can drag the image anywhere on the screen.
 
@@ -16,16 +16,18 @@ We can drag the image anywhere on the screen.
 
 ## HoverImage
 
+#### ❗ This project is currently under development.
 ### About HoverImage
 
 This is a mini project that I made using HTML, CSS & JS.
 We can drag the image on the screen. While hovering over the image it will scale a little bit and while clicking on the image it will rotate.
 
-## Features HoverImage
+### Features HoverImage
 
 - Can drag the image anywhere on the screen.
 - Image will scale while hovering.
 - Image will rotate after clicking.
+
 
 ## ModernButton
 
@@ -34,14 +36,15 @@ We can drag the image on the screen. While hovering over the image it will scale
 This is a mini project that I made using HTML, CSS & JS.
 It has 3 buttons that has modern light effect while hovering in differnt colors.
 
-## Features ModernButton
+### Features ModernButton
 
 - While hovering over the buttons different colors will be displayed in each buttons.
 - Has great transition effects.
 - Transition is smooth.
 - The button's text will glow while hovering the mouse over it and the border will also glow.
-- 
+  
   
 1. Clone the repository:
    ```sh
    git clone https://github.com/5Rashmi/WebCode.git
+### ![Thanks for visiting my Repository! Contributions and feedback are welcome.](https://img.shields.io/badge/Thanks%20for%20visiting%20my%20Repository!%20Contributions%20and%20feedback%20are%20welcome.-red?style=for-the-badge)
