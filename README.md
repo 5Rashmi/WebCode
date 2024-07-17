@@ -1,4 +1,4 @@
-<span style="color:red"># Web Code</span>
+![Web Code](https://img.shields.io/badge/Web%20Code-violet)
 
 We can drag the image anywhere on the screen.
 
