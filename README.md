@@ -1,6 +1,4 @@
-![Web Code](https://img.shields.io/badge/Web%20Code-violet)
-
-We can drag the image anywhere on the screen.
+![Web Code](https://img.shields.io/badge/Web%20Code-purple?style=for-the-badge)
 
 ### Link for the website HoverImage👉 https://5rashmi.github.io/WebCode/hoverImage/
 ### Link for the website ModernButton👉 https://5rashmi.github.io/WebCode/modernButton/
