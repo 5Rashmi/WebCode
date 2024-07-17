@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <img id="doraemon" src="doraemon.png">
+    <script>
+        doraemon = document.getElementById("doraemon");
+
+        doraemon.onclick = function(){
+            doraemon.classList.toggle("rotated");
+        }
+        doraemon.onmousemove =function(e){
+            let x = e.pageX;
+            let y = e.pageY;
+
+            doraemon.style.setProperty('--x', x + 'px');
+            doraemon.style.setProperty('--y', y + 'px');
+        }
+    </script>
+</body>
+</html>

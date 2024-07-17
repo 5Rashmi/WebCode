@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=0.33">
+    <title>Modern button</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <button id="btn1" class="button" style="--clr:hsl(0, 84%, 57%);"><span>Button 1</span></button>
+    <button id="btn2" class="button" style="--clr:hsl(283, 84%, 57%);"><span>Button 2</span></button>
+    <button id="btn3" class="button" style="--clr:hsl(197, 84%, 57%);"><span>Button 3</span></button>
+</body>
+<script>
+    btns = document.querySelectorAll(".button");
+    btns.forEach(btn => {
+        btn.onmousemove = function(e){
+            let x = e.pageX - btn.offsetLeft;
+            let y = e.pageY - btn.offsetTop;
+
+            btn.style.setProperty('--x' , x  + 'px');
+            btn.style.setProperty('--y', y + 'px');
+        }
+    });
+</script>
+</html>

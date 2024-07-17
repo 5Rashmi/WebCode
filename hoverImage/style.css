@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(160, 255, 255);
+}
+#doraemon{
+    position: absolute;
+    width: 200px;
+    height: 150px;
+    top: var(--y);
+    left: var(--x);
+    transform: translate(-50%, -50%);
+    transition: transform 0.2s;
+}
+#doraemon:hover{
+    transform: translate(-50%, -50%) scale(1.1);
+}
+#doraemon.rotated {
+    animation: rotate 2s ease;
+}
+
+@keyframes rotate {
+    0%{
+        transform: translate(-50%, -50%) rotate(0deg);
+    }
+    100%{
+        transform: translate(-50%, -50%) rotate(360deg);
+    }
+}
