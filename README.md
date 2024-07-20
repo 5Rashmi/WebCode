@@ -5,20 +5,22 @@
 
 ## Table of Contents
 
-- [Hover Image](#hoverimage)
-  - [About Hover Image](#about-hoverimage)
-  - [Features of Hover Image](#features-hoverimage)
-- [Modern Button](#modernbutton)
-  - [About Modern Button](#about-modernbutton)
-  - [Features of Modern Button](#features-modernbutton)
+- [Hover Image](#hover-image)
+  - [About Hover Image](#about-hover-image)
+  - [Features of Hover Image](#features-of-hover-image)
+- [Modern Button](#modern-button)
+  - [About Modern Button](#about-modern-button)
+  - [Features of Modern Button](#features-of-modern-button)
+
+---
 
 ## Hover Image
 
 #### ❗ This project is currently under development.
+
 ### About Hover Image
 
-This is a mini project that I made using HTML, CSS & JS.
-We can drag the image on the screen. While hovering over the image it will scale a little bit and while clicking on the image it will rotate.
+This is a mini project that I made using HTML, CSS & JS. We can drag the image on the screen. While hovering over the image, it will scale a little bit, and while clicking on the image, it will rotate.
 
 ### Features of Hover Image
 
@@ -26,21 +28,28 @@ We can drag the image on the screen. While hovering over the image it will scale
 - Image will scale while hovering.
 - Image will rotate after clicking.
 
+---
 
 ## Modern Button
 
 ### About Modern Button
 
-This is a mini project that I made using HTML, CSS & JS.
-It has 3 buttons that has modern light effect while hovering in differnt colors.
+This is a mini project that I made using HTML, CSS & JS. It has 3 buttons that have a modern light effect while hovering in different colors.
 
 ### Features of Modern Button
 
-- While hovering over the buttons different colors will be displayed in each buttons.
+- While hovering over the buttons, different colors will be displayed on each button.
 - Has great transition effects.
 - Transition is smooth.
-- The button's text will glow while hovering the mouse over it and the border will also glow.
-  
+- The button's text will glow while hovering the mouse over it, and the border will also glow.
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
   
 1. Clone the repository:
    ```sh
